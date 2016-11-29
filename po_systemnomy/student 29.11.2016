@@ -1,0 +1,34 @@
+import java.util.*;
+import java.lang.*;
+import java.io.*;
+
+/* Name of the class has to be "Main" only if the class is public. */
+class Ideone
+{
+int[ ] ysp = new int [10] ; 
+String[ ] fam = new String [10] ; 
+int[ ] group = new int [10] ; 
+int j=1;
+
+public static void main(String[] args) {
+String f;
+int q;
+int s;
+int i=1;
+Scanner in = new Scanner(System.in);
+while (i < 10) {
+{
+i++;
+System.out.println("Vvedite Familiy u Uniciali");
+fam[i] = n.nextLine();
+
+System.out.println("Vvedite nomer gryppi");
+group[i] = n.nextInt();
+
+System.out.println("Vvedite yspevaemost ");
+ysp[i] = n.nextInt();
+
+}
+}
+}
+}
